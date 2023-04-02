@@ -1,0 +1,28 @@
+{
+  "name": "warzone-damascus",
+  "displayName": "Warzone Damascus",
+  "description": "",
+  "version": "1.0.0",
+  "publisher": "Killeraffe",
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "killeraffe"
+  ],
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Warzone Damascus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Warzone Damascus-color-theme.json"
+      }
+    ]
+  }
+}
