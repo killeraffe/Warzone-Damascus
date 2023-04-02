@@ -4,6 +4,10 @@
   "description": "",
   "version": "1.0.0",
   "publisher": "Killeraffe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/killeraffe/Warzone-Damascus.git"
+  },
   "keywords": [
     "theme",
     "dark",
