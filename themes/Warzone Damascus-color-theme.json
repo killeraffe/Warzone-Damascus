@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "normal",
         "foreground": "#5a9aff"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "normal",
         "foreground": "#ff006c"
       }
     },
@@ -1890,16 +1890,16 @@
     "statusBarItem.remoteBackground": "#000e38",
     "statusBarItem.remoteForeground": "#ffffff",
     "titleBar.activeBackground": "#000514",
-    "titleBar.activeForeground": "#cccccc",
+    "titleBar.activeForeground": "#2a2a6c6c",
     "titleBar.inactiveBackground": "#000514",
-    "titleBar.inactiveForeground": "#cccccc99",
+    "titleBar.inactiveForeground": "#2a2a6c6c",
     "titleBar.border": "#00000000",
-    "menubar.selectionForeground": "#ffffff",
+    "menubar.selectionForeground": "#bf3526",
     "menubar.selectionBackground": "#000a29",
     "menubar.selectionBorder": "#00000000",
     "menu.foreground": "#cccccc",
     "menu.background": "#000a29",
-    "menu.selectionForeground": "#ffffff",
+    "menu.selectionForeground": "#bf3526",
     "menu.selectionBackground": "#000514",
     "menu.selectionBorder": "#00000000",
     "menu.separatorBackground": "#2b3a6c",
