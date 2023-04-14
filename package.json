@@ -4,6 +4,7 @@
   "description": "",
   "version": "2.3.3",
   "publisher": "Killeraffe",
+  "icon": "images/icon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/killeraffe/Warzone-Damascus.git"
